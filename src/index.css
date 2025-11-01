@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'stack';
+  src: url('./assets/fonts/Stacked.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+.slanup{
+    font-family: 'stack';
+}
+.sec2,.host{
+  font-family: 'Poppins';
+}
